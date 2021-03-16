@@ -22,6 +22,7 @@
 
 - [თემურ ჩიჩუა](https://github.com/temurchichua) | [ენის ლემატიზატორი](/Chapter1_Contribution/temur_chichua/readme.md)
 - [თემური ქიტოშვილი](https://github.com/TemuriKitoshvili) | [NLP_Demo](/Chapter1_Contribution/temuri_kitoshvili)
+- [ალექსანდრე ეროიანი](https://github.com/sun-dro) | [კვადრატში აყვანის ფუნქცია](https://github.com/sun-dro/intern-math-function)
 
 ## შეხვედრის ჩანაწერები
 
