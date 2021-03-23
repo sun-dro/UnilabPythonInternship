@@ -25,7 +25,7 @@
 - [მარია ვეშაპიძე](https://github.com/Maria-555) | [პითაგორას თეორემა](https://github.com/Maria-555/calculator.git)
 - [დავით ჭინჭარაშვილი](https://github.com/davidunilab) | [წიგნების კითხვის სტატისტიკა](https://github.com/davidunilab/davaleba1)
 - [ვაჟა ბერძენიშვილი](https://github.com/vazhaberdzenishvili) | [ფიბონაჩის მიმდევრობა](https://github.com/vazhaberdzenishvili/Fibonaccy_seq_calculator)
-- [ალექსანდრე ეროიანი](https://github.com/sun-dro) | [კვადრატში აყვანა](https://github.com/sun-dro/intern-math-function)
+- [ალექსანდრე ეროიანი](https://github.com/sun-dro) | [ხაზოვანი რეგრესია](https://github.com/sun-dro/intern-math-function)
 - [გიორგი კვარაცხელია](https://github.com/RegiusPythonidae) | [დეტერმინანტის გამოთვლა](https://github.com/RegiusPythonidae/determinant_calculator)
 - [ცოტნე გამსახურდაშვილი](https://github.com/tsgams) | [კალკულატორი](https://github.com/tsgams/Calculator)
 - [დენისი სანტურიანი](https://github.com/Denissant) | [პოპულაციის სტანდარტული გადახრა](https://github.com/Denissant/std_dev_demo)
